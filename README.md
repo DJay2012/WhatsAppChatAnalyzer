@@ -53,5 +53,5 @@ This Streamlit app provides a comprehensive analysis of your WhatsApp chat logs,
 
 1. **Clone the Repository (or download the zip):**
    ```bash
-   git clone 
+   git clone https://github.com/DJay2012/WhatsAppChatAnalyzer.git
    cd WhatsappChatAnalyzer
